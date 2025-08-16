@@ -34,7 +34,7 @@ This tool simulates phishing attacks for **authorized penetration testing** and 
 ## 🚀 Installation & Usage
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/phishing-simulator.git
+git clone https://github.com/mainak-roy-pentest/SNIII.git
 cd phishing-simulator
 ```
 
