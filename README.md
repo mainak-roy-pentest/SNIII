@@ -35,13 +35,13 @@ This tool simulates phishing attacks for **authorized penetration testing** and 
 1. Clone the Repository
 ```bash
 git clone https://github.com/mainak-roy-pentest/SNIII.git
-cd phishing-simulator
+cd SNIII
 ```
 
 2. Run the Tool
  ```bash
-chmod +x phish_simulator.sh
-./phish_simulator.sh
+chmod +x SNIII.sh
+./SNIII.sh
 ```
 3. Select a Target
 Choose from the menu:
